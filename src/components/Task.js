@@ -18,7 +18,7 @@ export default function Task({ task: { id, title, state }, onArchiveTask, onPinT
           </a>
         )}
       </div>
-    </ div>
+    </ div >
   )
 }
 
